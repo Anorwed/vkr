@@ -11,7 +11,7 @@
 ```bash
 pkg install wget -y && wget -O setupbot.sh https://raw.githubusercontent.com/Anorwed/vkr/main/setupbot.sh && chmod +x setupbot.sh && ./setupbot.sh
 ```
-Для остановки бота, нажмите кнопку Ctrl и латинскую O на клавиатуре.
+Для остановки бота, нажмите кнопку Ctrl и латинскую C на клавиатуре.
 
 #### Для повторного запуска после установки, используйте:
 ```bash
