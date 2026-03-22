@@ -17,3 +17,4 @@ pkg install wget -y && wget -O setupbot.sh https://raw.githubusercontent.com/Ano
 ```bash
 proot-distro login debian -- bash -c "cd /root/chemistry_bot && source venv/bin/activate && python3 main.py"
 ```
+## Нужен совет, как правильно пользоваться нейросетями? Посетите наш курс — https://edu.kpfu.ru/course/section.php?id=76191
