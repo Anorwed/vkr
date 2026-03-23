@@ -41,7 +41,7 @@
 4. Убедитесь, что Google Colab выделил вам GPU T4
 5. ![](Screenshot_20260323-165344_Firefox%20Nightly~2.png)
 6. ![](Screenshot_20260323-165726_Firefox%20Nightly~2.png)
-7. ![](Screenshot_20260323-165730_Firefox%Nightly~2.png)
+7. ![](Screenshot_20260323-165730_Firefox Nightly~2.png)
 8. Запустите ячейку, затем листайте вниз, чтобы вставить токен бота
 9. ![](Screenshot_20260323-165344_Firefox%20Nightly~3.png)
 10. Готово! Бот отвечает в Telegram
