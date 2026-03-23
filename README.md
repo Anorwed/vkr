@@ -1,4 +1,3 @@
-```markdown
 # 🤖 PicoClaw Telegram Bot
 
 <div align="center">
