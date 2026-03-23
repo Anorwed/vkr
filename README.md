@@ -100,10 +100,7 @@ proot-distro login debian -- bash -c "cd /root/chemistry_bot && source venv/bin/
 ```python
 # Для Gemini (по умолчанию)
 model = "gemini-2.5-flash"
-
-# Для других моделей OpenRouter
-model = "anthropic/claude-3.5-sonnet"
-model = "openai/gpt-4o-mini"
+model = "любая-гугл-ии-доступная-в-вашем-api"
 ```
 
 Настройка Telegram
