@@ -35,18 +35,19 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anorwed/vkr/blob/main/picoclawcolabqwen.ipynb)
 
-1. Нажмите кнопку **"Open in Colab"** выше ↑
-2. Войдите в Google-аккаунт
-3. Получите токен бота у [@BotFather](https://t.me/BotFather)
-4. Убедитесь, что Google Colab выделил вам GPU T4
-5. ![](Screenshot_20260323-165344_Firefox%20Nightly~2.png)
-6. ![](Screenshot_20260323-165726_Firefox%20Nightly~2.png)
-7. ![](3.png)
-8. Запустите ячейку, дождитесь появления зеленой галочки
+1. Для начала полностью прочитайте инструкцию, обязательно выполниое пункт 4 заранее
+2. Нажмите кнопку **"Open in Colab"** выше ↑
+3. Войдите в Google-аккаунт
+4. Получите токен бота у [@BotFather](https://t.me/BotFather) и скопируйте
+5. Убедитесь, что Google Colab выделил вам GPU T4
+6. ![](Screenshot_20260323-165344_Firefox%20Nightly~2.png)
+7. ![](Screenshot_20260323-165726_Firefox%20Nightly~2.png)
+8. ![](3.png)
+9. Запустите ячейку, дождитесь появления зеленой галочки
 ![](Screenshot_20260323-165344_Firefox%20Nightly~3.png)
-9. Листайте вниз, вставьте токен, запустите и ждите 5-10 минут
+10. Листайте вниз, вставьте токен, запустите и ждите 5-10 минут
 ![](5.png)
-11. Готово! Бот отвечает в Telegram
+11. Готово! Бот отвечает в Telegram до тех пор, пока активна вкладка Google Colab
 
 > ⚠️ **Важно**: Сессия Colab активна ~12 часов. Для постоянной работы используйте Android-версию.
 
