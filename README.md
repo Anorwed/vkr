@@ -1,3 +1,4 @@
+```markdown
 # 🤖 PicoClaw Telegram Bot
 
 <div align="center">
@@ -7,7 +8,7 @@
 [![Ollama](https://img.shields.io/badge/🦙-Ollama-green)](https://ollama.com)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
-**Личный AI-ассистент в Telegram с выбором режимов работы**
+**Личный AI-ассистент в Telegram на базе Qwen 2.5**
 
 [🚀 Быстрый старт](#-быстрая-установка) • [📱 Android/Termux](#-версия-для-android) • [☁️ Google Colab](#-версия-для-google-colab) • [⚙️ Настройка](#-конфигурация)
 
@@ -17,14 +18,13 @@
 
 ## ✨ Возможности
 
-| Режим | Модель | Tools | Vision | Описание |
-|-------|--------|-------|--------|----------|
-| 🛠️ **Код & Команды** | Qwen 2.5 7B | ✅ | ❌ | Выполняет команды, пишет код, работает с файлами |
-| 🖼️ **Vision & Медиа** | Gemma 3 12B | ❌ | ✅ | Анализирует фото, документы, PDF, описывает изображения |
+- 🛠️ **Выполнение команд** — бот может запускать shell-команды, работать с файлами
+- 💻 **Написание кода** — генерация и редактирование кода на Python, JS и др.
+- 📁 **Работа с файлами** — создание, чтение, редактирование документов
+- 🔒 **Безопасность** — изолированное окружение, ограничение рабочей папки
+- 🌐 **Доступ из любой точки** — работает на Android, Colab или VPS
 
-- 🔒 **Безопасность**: Работа в изолированном окружении
-- 🌐 **Доступ из любой точки**: Работает на Android, Colab или VPS
-- 🎯 **Гибкость**: Легко менять модели и провайдеров
+> **Модель:** Qwen 2.5 7B (поддерживает function calling, работает стабильно)
 
 ---
 
@@ -39,7 +39,7 @@
 1. Нажмите кнопку **"Open in Colab"** выше ↑
 2. Войдите в Google-аккаунт
 3. Получите токен бота у [@BotFather](https://t.me/BotFather)
-4. Запустите ячейку и выберите режим работы
+4. Запустите ячейку и вставьте токен
 5. Готово! Бот отвечает в Telegram
 
 > ⚠️ **Важно**: Сессия Colab активна ~12 часов. Для постоянной работы используйте Android-версию.
@@ -69,3 +69,70 @@
 
 ```bash
 pkg install wget -y && wget -O setupbot.sh https://raw.githubusercontent.com/Anorwed/vkr/main/setupbot.sh && chmod +x setupbot.sh && ./setupbot.sh
+```
+
+> 💡 Совет: Долгий тап в Termux = вставка из буфера обмена
+
+🔄 Перезапуск бота
+
+Если закрыли Termux или нужно перезапустить:
+
+```bash
+proot-distro login debian -- bash -c "cd /root/chemistry_bot && source venv/bin/activate && python3 main.py"
+```
+
+⏹️ Остановка бота
+
+Нажмите `Ctrl + C` в окне Termux.
+
+---
+
+⚙️ Конфигурация
+
+Смена модели AI
+
+Отредактируйте `core/ai.py`:
+
+```python
+# Для Gemini (по умолчанию)
+model = "gemini-2.5-flash"
+
+# Для других моделей OpenRouter
+model = "anthropic/claude-3.5-sonnet"
+model = "openai/gpt-4o-mini"
+```
+
+Настройка Telegram
+
+Измените токен в `.env` файле:
+
+```bash
+BOT_TOKEN=your_token_here
+```
+
+---
+
+🎓 Обучение
+
+Нужен совет, как правильно пользоваться нейросетями?
+
+[![Курс КФУ](https://img.shields.io/badge/📚-Курс_КФУ-blue)](https://edu.kpfu.ru/course/section.php?id=76191)
+
+[Перейти на курс КФУ →](https://edu.kpfu.ru/course/section.php?id=76191)
+
+---
+
+🛠️ Техническая поддержка
+
+Проблема	Решение	
+Бот не отвечает	Проверьте токен в @BotFather	
+Ошибка 400	Проверьте VPN и интернет	
+Colab отключается	Используйте Android-версию	
+
+Issues: [Создать тикет](https://github.com/Anorwed/vkr/issues)
+
+---
+
+[⬆ Наверх](#-picoclaw-telegram-bot)
+
+Made with ❤️ for educational purposes
