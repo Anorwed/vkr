@@ -129,12 +129,6 @@ BOT_TOKEN=your_token_here
 ---
 
 🛠️ Техническая поддержка
-
-Проблема	Решение	
-Бот не отвечает	Проверьте токен в @BotFather	
-Ошибка 400	Проверьте VPN и интернет	
-Colab отключается	Используйте Android-версию	
-
 Issues: [Создать тикет](https://github.com/Anorwed/vkr/issues)
 
 ---
