@@ -35,10 +35,10 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anorwed/vkr/blob/main/picoclawcolabqwen.ipynb)
 
-1. Для начала полностью прочитайте инструкцию, обязательно выполниое пункт 4 заранее
-2. Нажмите кнопку **"Open in Colab"** выше ↑
-3. Войдите в Google-аккаунт
-4. Получите токен бота у [@BotFather](https://t.me/BotFather) и скопируйте
+1. Для начала полностью прочитайте инструкцию
+2. Получите токен бота у [@BotFather](https://t.me/BotFather) и скопируйте
+3. Нажмите кнопку **"Open in Colab"** выше ↑
+4. Войдите в Google-аккаунт
 5. Убедитесь, что Google Colab выделил вам GPU T4
 6. ![](Screenshot_20260323-165344_Firefox%20Nightly~2.png)
 7. ![](Screenshot_20260323-165726_Firefox%20Nightly~2.png)
@@ -53,7 +53,9 @@
 
 ---
 
-### 📱 Версия для Android (Termux)
+### 📱 Версия для Android (Termux) 
+
+> Можете пропустить, только для энтузиастов
 
 Разверните личного AI-ассистента на любом Android-устройстве с интерфейсом для Gemini 2.5 Flash (или другой модели).
 
