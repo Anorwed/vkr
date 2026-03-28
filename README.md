@@ -14,13 +14,9 @@
 
 [![Курс КФУ](https://img.shields.io/badge/📚-Курс_КФУ-blue)](https://edu.kpfu.ru/course/section.php?id=76191)
 
----
-
 🛠️ Техническая поддержка
 Issues: [Создать тикет](https://github.com/Anorwed/vkr/issues)
 
 ---
-
-[⬆ Наверх](#-picoclaw-telegram-bot)
 
 Made with ❤️ for educational purposes
