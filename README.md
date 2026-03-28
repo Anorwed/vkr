@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anorwed/vkr/blob/main/picoclawcolabqwen.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anorwed/vkr/blob/main/picocolabqwen2.ipynb)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://python.org)
 [![Ollama](https://img.shields.io/badge/🦙-Ollama-green)](https://ollama.com)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
@@ -33,7 +33,7 @@
 
 > **Самый простой способ** — не требует установки, работает в облаке
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anorwed/vkr/blob/main/picoclawcolabqwen.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anorwed/vkr/blob/main/picocolabqwen2.ipynb)
 
 1. Для начала полностью прочитайте инструкцию
 2. Получите токен бота у [@BotFather](https://t.me/BotFather) и скопируйте
