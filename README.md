@@ -8,14 +8,11 @@
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
 **Личный AI-ассистент в Telegram на базе Qwen 2.5**
-
 [Ссылка на Wiki с инструкцией](https://github.com/Anorwed/vkr/wiki)
 
 Нужен совет, как правильно пользоваться нейросетями?
 
 [![Курс КФУ](https://img.shields.io/badge/📚-Курс_КФУ-blue)](https://edu.kpfu.ru/course/section.php?id=76191)
-
-[Перейти на курс КФУ →](https://edu.kpfu.ru/course/section.php?id=76191)
 
 ---
 
