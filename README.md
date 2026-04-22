@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Anorwed/vkr/blob/main/openclawqwen.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anorwed/vkr/blob/main/openclawqwen.ipynb)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://python.org)
 [![Ollama](https://img.shields.io/badge/🦙-Ollama-green)](https://ollama.com)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
