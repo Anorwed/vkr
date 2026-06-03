@@ -1,4 +1,4 @@
-# 🤖 PicoClaw Telegram Bot
+# 🤖 PicoClaw Colab
 
 <div align="center">
 
