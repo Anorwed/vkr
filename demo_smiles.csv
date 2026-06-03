@@ -1,0 +1,41 @@
+Name,SMILES,Activity
+Ethanol,CCO,1
+Acetic acid,CC(=O)O,1
+Benzene,c1ccccc1,0
+Ethylamine,CCN,1
+Butane,CCCC,0
+Acetone,CC(=O)C,1
+Toluene,Cc1ccccc1,0
+Phenol,c1ccc(cc1)O,1
+Aniline,Nc1ccccc1,1
+Pyridine,c1ccncc1,0
+Cyclohexane,C1CCCCC1,0
+Ethyl acetate,CCOC(=O)C,1
+Chloroethane,CCCl,0
+Bromoethane,CCBr,0
+Isopropanol,CC(C)O,1
+Diethyl ether,CCOCC,0
+Acetamide,CC(=O)N,1
+Benzoic acid,O=C(O)c1ccccc1,1
+Methyl benzoate,COC(=O)c1ccccc1,0
+Aspirin,CC(=O)Oc1ccccc1C(=O)O,1
+Paracetamol,CC(=O)Nc1ccc(O)cc1,1
+Ibuprofen,CC(C)Cc1ccc(cc1)C(C)C(=O)O,1
+Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,1
+Nicotine,CN1CCC[C@H]1c2cccnc2,1
+Naphthalene,c1ccc2ccccc2c1,0
+Furan,c1ccoc1,0
+Thiophene,c1ccsc1,0
+Imidazole,c1ncc[nH]1,1
+Piperidine,N1CCCCC1,1
+Morpholine,O1CCNCC1,1
+Triethylamine,CCN(CC)CC,1
+Dimethyl sulfoxide,CS(=O)C,1
+Urea,NC(=O)N,1
+Glycine,NCC(=O)O,1
+Alanine,C[C@H](N)C(=O)O,1
+Glucose,C(C1C(C(C(C(O1)O)O)O)O)O,1
+Cholesterol,CC(C)CCCC(C)C1CCC2C1(CCC3C2CCC4=CC(O)CCC34C)C,0
+Lactic acid,CC(O)C(=O)O,1
+Nitrobenzene,O=[N+]([O-])c1ccccc1,0
+Acetonitrile,CC#N,0
