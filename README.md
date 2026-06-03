@@ -7,7 +7,7 @@
 [![Ollama](https://img.shields.io/badge/🦙-Ollama-green)](https://ollama.com)
 [![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
-**Личный AI-ассистент в Telegram на базе Qwen 2.5**
+**Личный AI-ассистент ВКонтакте на базе Qwen 2.5/3.5**
 [Ссылка на Wiki с инструкцией](https://github.com/Anorwed/vkr/wiki)
 
 Нужен совет, как правильно пользоваться нейросетями?
